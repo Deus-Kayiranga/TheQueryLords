@@ -5,7 +5,7 @@ Welcome to our project on sql window function!
 
 1.Kayiranga Deus(ID:26699)
 
-2.Imena Vicky(ID:)
+2.Imena Vicky(ID:26964)
 
 **🔗Course**: Database Development with PL/SQL 
 
