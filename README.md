@@ -7,9 +7,11 @@ Welcome to our project on sql window function!
 
 2.Imena Vicky(ID:)
 
-**Course**: Database Development with PL/SQL  
-**Instructor**: Eric Maniraguha  
-**Repository Name**: QueryLords
+**🔗Course**: Database Development with PL/SQL 
+
+**👥 Instructor Collaborator**: ericmaniraguha 
+
+**🔗Repository Name**: QueryLords
 
 ## 🎯 Objective
 
